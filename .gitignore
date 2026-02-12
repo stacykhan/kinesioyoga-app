@@ -1,0 +1,13 @@
+node_modules
+.pnpm-store
+.next
+.expo
+.expo-shared
+dist
+build
+.env
+.env.local
+apps/*/.env
+apps/*/.env.local
+coverage
+.DS_Store
